@@ -1,4 +1,4 @@
-# TheHylia mass grabber
+# TheHylia File Grabber
 
 This script will download all files at once, even without an account.
 
