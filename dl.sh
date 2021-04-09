@@ -3,8 +3,6 @@
 # ready term
 clear
 
-#s_URL='http://d36.mobdisc.com/download/aedbf916-efa7-4a35-982d-54fd08055766/5592-Asphalt-8-Airborne-v4-8-0i-cache.zip/'
-
 s_URL=$1
 s_fname=$2
 
