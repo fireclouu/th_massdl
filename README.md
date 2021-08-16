@@ -7,7 +7,7 @@ Clone this repo:
 `git clone https://github.com/fireclouu/th_massdl`
 
 To use it, cd into cloned repo and:
-`bash copy.sh (your_url)`
+`bash copy.bash (your_url)`
 
 It will create new folder based on page title, and files will be store in it.
 
